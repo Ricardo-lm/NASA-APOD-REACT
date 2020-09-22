@@ -6,7 +6,7 @@ export default function Home() {
     return(
         <div className="Home">
             <Link to="/nasaphoto">
-                <Button variant="outline-primary">See into the stars</Button>{' '}
+                <Button className="home-link" variant="outline-primary">See into the stars</Button>
             </Link>
         </div>
     );
