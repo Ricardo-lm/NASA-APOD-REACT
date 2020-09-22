@@ -3,6 +3,7 @@
   height: 100vh;
   align-items: center;
   justify-content: center;
+<<<<<<< HEAD
 }
 
 .home-link {
@@ -15,3 +16,7 @@ body {
 }
 
 
+=======
+  background-color: #83a2d8;
+}
+>>>>>>> d11efb7b716272b9838dcf33b754f3ecb5e220c1
