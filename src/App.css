@@ -3,7 +3,6 @@
   height: 100vh;
   align-items: center;
   justify-content: center;
-<<<<<<< HEAD
 }
 
 .home-link {
@@ -13,10 +12,5 @@
 body {
   background-image: url("https://images.pexels.com/photos/2923595/pexels-photo-2923595.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
   background-size: cover;
-}
-
-
-=======
   background-color: #83a2d8;
 }
->>>>>>> d11efb7b716272b9838dcf33b754f3ecb5e220c1
