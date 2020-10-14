@@ -17,7 +17,6 @@ export default function Nasaphoto() {
             );
             const data = await res.json();
             setPhotoData(data);
-            console.log(data);
         }
     }, []);
 
